@@ -73,4 +73,4 @@ We will be having a number of surprise visits/seminars on the applications of Da
 
 ### Register :relaxed:
 
-###
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdOrbz5pBaqAFUe0uPqrgM8GsHOoTSShy_XEiGJxTA3v3Q2xQ/viewform?usp=pp_url" %}
