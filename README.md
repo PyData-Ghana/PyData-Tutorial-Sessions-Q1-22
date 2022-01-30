@@ -33,6 +33,10 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
 * Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and,
 * In-person (Saturdays 11:00am - 2:00pm)
+
+
+
+_Links to the Virtual events will be communicated along with the location (In Accra) for the in-person events._
 {% endhint %}
 
 **Prerequisites:** An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
@@ -57,8 +61,6 @@ By participating in this workshop, you'll
 * Be able to gather or scrap data from the web using two key technologies.
 * Learn how to document data science projects.
 
-Links to the Virtual events will be communicated along with the location(In Accra) for the in-person events.
-
 _**Topics to be covered in this period are:**_
 
 * Introduction and Definitions
@@ -69,6 +71,6 @@ _**Topics to be covered in this period are:**_
 
 We will be having a number of surprise visits/seminars on the applications of Data Science, How you can become a Data Scientist and Careers in Data Science.
 
+### Register :relaxed:
 
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSch9jxt0nJWNBadVEwoBoQM5fEGPjrvXj5U7b140yAWtt-yZg/viewform?usp=pp_url" %}
+###
