@@ -41,7 +41,7 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
 **Assessment Type**: Python based assessment to evaluate participants familiarity with the language.
 
-**Certificate:** Upon successful completion of the assessment, participants will receive a **certificate** to recognize their subject matter competency and support professional career growth. This will be awarded to participants who are able to attend **80%** (ie. 15 days) of all sessions.
+**Certificate:** Upon successful completion of the assessment, participants will receive a **certificate** to recognize their subject matter competency and support professional career growth. This will be awarded to participants who are able to attend **>80%** (ie. 15 days) of all sessions.
 
 **Hardware Requirements:** Laptop computer capable of running the latest version of Chrome or Firefox.
 
