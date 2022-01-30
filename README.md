@@ -16,9 +16,11 @@ Businesses now want to adopt data-driven models to facilitate better decision ma
 
 It is therefore not just important to gain data science skills but a requisite in this Industrial Revolution.
 
-To help you on your journey to join the data science wave, PyData Ghana will be holding a Limited edition hands-on training on Data Science and Analytics. Which will cover tools and techniques needed to effectively gather, process, clean, visualize and document your data findings. There are only 20 slots available.
+To help you on your journey to join the data science wave, PyData Ghana will be holding a Limited edition hands-on training on Data Science and Analytics. Which will cover tools and techniques needed to effectively gather, process, clean, visualize and document your data findings.&#x20;
 
 Register to be a part of this career changing experience.
+
+There are only **20 slots** available.
 
 ### Workshop Details
 
@@ -27,7 +29,8 @@ Register to be a part of this career changing experience.
 {% hint style="info" %}
 There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
-Both Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and In-person(Saturdays 11:00am - 2:00pm)
+* Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and.&#x20;
+* In-person(Saturdays 11:00am - 2:00pm)
 {% endhint %}
 
 
@@ -38,7 +41,7 @@ Both Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and In-person(Saturdays
 
 **Assessment Type**: Python based assessment to evaluate participants familiarity with the language.
 
-**Certificate:** Upon successful completion of the assessment, participants will receive a certificate to recognize their subject matter competency and support professional career growth. This will be awarded to participants who are able to attend 80% (ie. 15 days) of all sessions.
+**Certificate:** Upon successful completion of the assessment, participants will receive a **certificate** to recognize their subject matter competency and support professional career growth. This will be awarded to participants who are able to attend **80%** (ie. 15 days) of all sessions.
 
 **Hardware Requirements:** Laptop computer capable of running the latest version of Chrome or Firefox.
 
@@ -60,7 +63,13 @@ By participating in this workshop, you'll
 
 Links to the Virtual events will be communicated along with the location for the in-person events.
 
-Topics to be covered in this period are Data Gathering, Data Processing, Data Visualization and many more.
+Topics to be covered in this period are:
+
+* Introduction and Definitions
+* Data Gathering
+* Data Processing
+* Data Visualization
+* Documentation
 
 We will be having a number of surprise visits/seminars on the applications of Data Science, How you can become a Data Scientist and Careers in Data Science.
 
