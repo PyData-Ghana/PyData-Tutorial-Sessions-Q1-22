@@ -31,8 +31,8 @@ Cost: Fully sponsored.&#x20;
 {% hint style="info" %}
 There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
-* Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and.&#x20;
-* In-person(Saturdays 11:00am - 2:00pm)
+* Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and,
+* In-person (Saturdays 11:00am - 2:00pm)
 {% endhint %}
 
 
