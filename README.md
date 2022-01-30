@@ -73,6 +73,10 @@ We will be having a number of surprise visits/seminars on the applications of Da
 
 ### Register here :relaxed:
 
+{% hint style="warning" %}
+**The registration process is open until 6th February 2022.**
+{% endhint %}
+
 {% embed url="https://t.ly/PDG-DS1" %}
 Registration Form
 {% endembed %}
