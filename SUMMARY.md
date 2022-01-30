@@ -1,3 +1,3 @@
 # Table of contents
 
-* [PyData Ghana Introduction to Data Science](README.md)
+* [Data Science Full Course Intensive Training (Beginner Level)](README.md)
