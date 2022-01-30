@@ -6,7 +6,7 @@ coverY: 0
 cover: .gitbook/assets/TWEET header.jpg
 ---
 
-# PyData Ghana Introduction to DS
+# Data Science Full Course Intensive Training (Beginner Level)
 
 ### **Overview**
 
@@ -35,8 +35,6 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 * In-person (Saturdays 11:00am - 2:00pm)
 {% endhint %}
 
-
-
 **Prerequisites:** An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
 
 **Technologies:** Numpy, **** Pandas, Matplotlib, Seaborn, Beautiful Soup, Selenium
@@ -49,8 +47,6 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
 **Languages:** English
 
-
-
 ### Learning Objectives
 
 By participating in this workshop, you'll
@@ -61,11 +57,9 @@ By participating in this workshop, you'll
 * Be able to gather or scrap data from the web using two key technologies.
 * Learn how to document data science projects.
 
+Links to the Virtual events will be communicated along with the location(In Accra) for the in-person events.
 
-
-Links to the Virtual events will be communicated along with the location for the in-person events.
-
-Topics to be covered in this period are:
+_**Topics to be covered in this period are:**_
 
 * Introduction and Definitions
 * Data Gathering
@@ -74,6 +68,3 @@ Topics to be covered in this period are:
 * Documentation
 
 We will be having a number of surprise visits/seminars on the applications of Data Science, How you can become a Data Scientist and Careers in Data Science.
-
-
-
