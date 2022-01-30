@@ -22,6 +22,8 @@ Register to be a part of this career changing experience.
 
 There are only **20 slots** available.
 
+Cost: Fully sponsored.&#x20;
+
 ### Workshop Details
 
 **Duration:** 6 weeks (17th February - 26th March 2022)
