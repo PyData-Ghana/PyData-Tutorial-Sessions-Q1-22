@@ -68,3 +68,7 @@ _**Topics to be covered in this period are:**_
 * Documentation
 
 We will be having a number of surprise visits/seminars on the applications of Data Science, How you can become a Data Scientist and Careers in Data Science.
+
+
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSch9jxt0nJWNBadVEwoBoQM5fEGPjrvXj5U7b140yAWtt-yZg/viewform?usp=pp_url" %}
