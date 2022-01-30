@@ -3,6 +3,7 @@ description: >-
   This post is to outline things to note in the upcoming PyData Introduction to
   Data Science using  Python Tutorials
 coverY: 0
+cover: .gitbook/assets/TWEET header.jpg
 ---
 
 # PyData Ghana Introduction to DS
@@ -15,7 +16,7 @@ Businesses now want to adopt data-driven models to facilitate better decision ma
 
 It is therefore not just important to gain data science skills but a requisite in this Industrial Revolution.
 
-To help you on your journey to join the data science wave, PyData will be holding a Limited edition hands-on training on Data Science and Analytics. Which will cover tools and techniques needed to effectively gather, process, clean, visualize and document your data findings. There are only 20 slots available.
+To help you on your journey to join the data science wave, PyData Ghana will be holding a Limited edition hands-on training on Data Science and Analytics. Which will cover tools and techniques needed to effectively gather, process, clean, visualize and document your data findings. There are only 20 slots available.
 
 Register to be a part of this career changing experience.
 
@@ -31,7 +32,7 @@ Both Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and In-person(Saturdays
 
 
 
-**Prerequisites:** An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays...
+**Prerequisites:** An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
 
 **Technologies:** Numpy, **** Pandas, Matplotlib, Seaborn, Beautiful Soup, Selenium
 
@@ -39,7 +40,7 @@ Both Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and In-person(Saturdays
 
 **Certificate:** Upon successful completion of the assessment, participants will receive a certificate to recognize their subject matter competency and support professional career growth. This will be awarded to participants who are able to attend 80% (ie. 15 days) of all sessions.
 
-**Hardware Requirements:** Desktop or laptop computer capable of running the latest version of Chrome or Firefox.
+**Hardware Requirements:** Laptop computer capable of running the latest version of Chrome or Firefox.
 
 **Languages:** English
 
@@ -49,21 +50,17 @@ Both Virtual ( 4:30pm - 5:30pm on Thursdays and Fridays) and In-person(Saturdays
 
 By participating in this workshop, you'll
 
-* Learn the fundamental techniques and tools required to get into Data Science
-* Be able to effectively process and clean data
-* Be able to visualize data in the best way to get the right insights
-* Be able to gather or scrap data from the web using two key technologies
-* Learn how to document data science projects&#x20;
+* Learn the fundamental techniques and tools required to get into Data Science.
+* Be able to effectively process and clean data.
+* Be able to visualize data in the best way to get the right insights.
+* Be able to gather or scrap data from the web using two key technologies.
+* Learn how to document data science projects.
 
 
 
+Links to the Virtual events will be communicated along with the location for the in-person events.
 
-
-
-
-Links to the Virtual events will be communicated along with the location for the in-person events
-
-Topics to be covered in this period are Data Gathering, Data Processing, Data Visualization and many more
+Topics to be covered in this period are Data Gathering, Data Processing, Data Visualization and many more.
 
 We will be having a number of surprise visits/seminars on the applications of Data Science, How you can become a Data Scientist and Careers in Data Science.
 
