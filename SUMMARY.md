@@ -1,3 +1,3 @@
 # Table of contents
 
-* [PyData Ghana Introduction to DS](README.md)
+* [PyData Ghana Introduction to Data Science](README.md)
