@@ -3,7 +3,7 @@ description: >-
   This post is to outline things to note in the upcoming PyData Introduction to
   Data Science using  Python Tutorials
 coverY: 0
-cover: .gitbook/assets/TWEET header.jpg
+cover: .gitbook/assets/TWEET header-min.jpg
 ---
 
 # Data Science Full Course Intensive Training (Beginner Level)
