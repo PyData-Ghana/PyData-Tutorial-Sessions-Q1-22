@@ -39,7 +39,7 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 _Links to the Virtual events will be communicated along with the location (In Accra) for the in-person events._
 {% endhint %}
 
-**Prerequisites:** An understanding of fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
+**Prerequisites:** An understanding of basic Mathematics and fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
 
 **Technologies:** Numpy, **** Pandas, Matplotlib, Seaborn, Beautiful Soup, Selenium
 
