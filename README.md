@@ -79,6 +79,4 @@ We will be having a number of surprise visits/seminars on the applications of Da
 _Click on the link below to register._
 {% endhint %}
 
-{% embed url="https://t.ly/PDG-DS1" %}
-Registration Form
-{% endembed %}
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdOrbz5pBaqAFUe0uPqrgM8GsHOoTSShy_XEiGJxTA3v3Q2xQ/viewform?usp=sf_link" %}
