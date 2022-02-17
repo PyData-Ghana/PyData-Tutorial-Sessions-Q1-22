@@ -20,7 +20,7 @@ To help you on your journey to join the data science wave, PyData Ghana will be 
 
 Register to be a part of this career changing experience.
 
-There are only **20 slots** available.
+There are only **30 slots** available.
 
 Cost: Fully sponsored.&#x20;
 
@@ -36,7 +36,13 @@ There will be 3 sessions weekly on Thursdays, Fridays and Saturdays.
 
 
 
-_Links to the Virtual events will be communicated along with the location (In Accra) for the in-person events._
+_**In-person venue:**_&#x20;
+
+London College of International Business Studies
+
+3rd Floor, The Octagon, Barnes Road, Accra, Ghana
+
+
 {% endhint %}
 
 **Prerequisites:** An understanding of basic Mathematics and fundamental programming concepts in [Python 3](https://wiki.python.org/moin/BeginnersGuide), such as functions, loops, dictionaries, and arrays.
